@@ -4,6 +4,7 @@ import com.cybertek.pages.DashboardPage;
 import com.cybertek.pages.LoginPage;
 import com.cybertek.pages.VehiclesModelPage;
 import com.cybertek.tests.TestBase;
+import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -51,20 +52,26 @@ public class US_13 extends TestBase {
         * */
     @Test
     public void test171(){
+        extentLogger = report.createTest("Sales Manager could able to see Vehicles Model");
+
         LoginPage loginPage = new LoginPage();
+
+        extentLogger.info("Login as a Sales Manager");
         loginPage.loginAsSalesManager();
 
         DashboardPage dashboardPage = new DashboardPage();
+        extentLogger.info("Navigate to --> Fleet > Vehicles Model");
         dashboardPage.navigateToModule("Fleet","Vehicles Model");
 
         VehiclesModelPage vehiclesModelPage = new VehiclesModelPage();
 
+        extentLogger.info("Verify Current Url is " + "https://qa2.vytrack.com/entity/Extend_Entity_VehiclesModel");
         String actualCurrentUrl = Driver.get().getCurrentUrl();
         String expectedCurrentUrl = "https://qa2.vytrack.com/entity/Extend_Entity_VehiclesModel";
 
         Assert.assertEquals(actualCurrentUrl,expectedCurrentUrl,"Verify Sales manager could able to see Vehicles Model page");
 
-
+        extentLogger.pass("PASSED");
     }
 
 
@@ -76,16 +83,27 @@ public class US_13 extends TestBase {
         * */
     @Test
     public void test172(){
+        extentLogger = report.createTest("Truck driver could not able to see Vehicles Model");
+
         LoginPage loginPage = new LoginPage();
+
+        extentLogger.info("Login as a Truck driver");
         loginPage.loginAsDriver();
 
         DashboardPage dashboardPage = new DashboardPage();
+        extentLogger.info("Navigate to --> Fleet > Vehicles Model");
         dashboardPage.navigateToModule("Fleet","Vehicles Model");
 
         VehiclesModelPage vehiclesModelPage = new VehiclesModelPage();
 
+        BrowserUtils.waitFor(5);
+
+        extentLogger.info("Verify Current Url is " + "https://qa2.vytrack.com/entity/Extend_Entity_VehiclesModel");
+
         String actualCurrentUrl = Driver.get().getCurrentUrl();
         Assert.assertFalse(actualCurrentUrl.equals("https://qa2.vytrack.com/entity/Extend_Entity_VehiclesModel"));
+
+        extentLogger.pass("PASSED");
 
     }
 

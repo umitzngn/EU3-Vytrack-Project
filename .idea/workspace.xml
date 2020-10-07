@@ -2,69 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273920c8-e4e4-42a0-a43e-e41b3026ea5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/VehiclesModelPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VytrackTest/US_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VytrackTest/US_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VytrackTest/US_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VytrackTest/US_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Homeworks/HW_EU2_TC_1to5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Homeworks/HW_EU2_TC_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Homeworks/HW_EU2_TC_7_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Homeworks/HW_EU2_TC_9to12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Homeworks/HW_EU2_TC_9to12_DataProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VytrackTest/US_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/VytrackTest/US_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_actions_js/ActionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_actions_js/JavaScriptExecutorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_file_upload/FileUploadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_webtables/WebTablesExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_properties_driver_tests/AnotherLoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_properties_driver_tests/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_properties_driver_tests/PropertiesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_properties_driver_tests/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_properties_driver_tests/SingletonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_pom/NegativeLoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_pom/PageSubtitleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_pom/PositiveLoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_pom/RepeatOptionsTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_intro/OpenBrowser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/CallWebDriverFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/CloseAndQuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/GetTitleAndUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_webdriver_basics/NavigationDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_intro/verifyConfirmationMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_intro/verifyURLchanged.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_webelement_intro/verifyUrlnotChanged.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/IDLocatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/classNameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/linkTextPartialLinkText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/nameLocaterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_basic_locators/tagNameLocater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpath/AmazonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpath/LocaterHW1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpath/LocaterHW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_xpath/xPathLocator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/cssLocator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/AttributeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/BeforeAfterMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/CheckBoxDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/DisabledElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/DisplayedDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/FirstTestNGTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/RadioButtonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_testng/TestNGAssertionsDEmo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements_2/ListOfElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements_2/NoSelectDropdown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_types_of_elements_2/SelectDropdownTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/CheckboxHW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/HW2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/MultipleWindows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/iframeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_popups_tabs_frames/popupsAndAlerts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_waits/ExplicitWaitExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_waits/ImplicitlyWaitExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_waits/ThreadSleepExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,10 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.US_13.test170">
+  <component name="RunManager" selected="TestNG.US_13.test172">
     <configuration name="US_13.test170" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EU3 Vytrack Project" />
       <extension name="coverage">
@@ -185,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.US_13.test170" />
         <item itemvalue="TestNG.US_13.test172" />
+        <item itemvalue="TestNG.US_13.test170" />
         <item itemvalue="TestNG.US_13.test171" />
         <item itemvalue="TestNG.US_9" />
         <item itemvalue="TestNG.US_9.test161" />
@@ -204,36 +145,52 @@
       <option name="presentableId" value="Default" />
       <updated>1597340902230</updated>
     </task>
+    <task id="LOCAL-00001" summary="new added">
+      <created>1602078649503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602078649503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599988555971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1599988555971" />
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1602078644780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602078644780" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601137351443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1601137351443" />
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1602078494428">
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1602080740515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602078494428" />
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602080740515" />
     <state width="1323" height="24" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601420555121" />
-    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1602078494427">
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1602080740515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602078494427" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602080740515" />
     <state width="1323" height="24" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601420555121" />
-    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1602078494427">
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1602080740515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602078494427" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602080740515" />
     <state width="1323" height="24" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601420555121" />
-    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1602078494428">
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1602080740515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602078494428" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.1160@0.0.1366.728" timestamp="1602080740515" />
     <state width="1323" height="24" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601420555121" />
     <state x="65" y="59" key="new project wizard" timestamp="1601493168668">
       <screen x="0" y="0" width="1366" height="728" />

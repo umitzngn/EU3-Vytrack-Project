@@ -18,7 +18,11 @@ public class US_9 extends TestBase {
 
     @Test
     public void test161(){
+        LoginPage loginPage = new LoginPage();
+        loginPage.loginAsDriver();
 
+        DashboardPage dashboardPage = new DashboardPage();
+        dashboardPage.navigateToModule("Fleet","Vehicles Fuel Logs");
 
         VehicleFuelLogsPage vehicleFuelLogsPage = new VehicleFuelLogsPage();
         String actualSubtitle = vehicleFuelLogsPage.getPageSubTitle();

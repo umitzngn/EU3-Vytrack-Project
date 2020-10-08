@@ -22,8 +22,6 @@ public class US_10 extends TestBase {
 
         System.out.println("-----");
 
-        System.out.println(vehicleFuelLogsPage.vehicleFuelLogsMessage.getText());
-
         System.out.println(vehicleFuelLogsPage.fuelLogInformation.getText());
 
 

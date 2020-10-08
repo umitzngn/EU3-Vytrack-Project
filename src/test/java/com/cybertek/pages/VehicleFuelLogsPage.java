@@ -10,7 +10,5 @@ public class VehicleFuelLogsPage extends BasePage{
     @FindBy(tagName = "thead")
     public WebElement fuelLogInformation;
 
-    @FindBy(xpath = "//h1[@class='oro-subtitle']")
-    public WebElement vehicleFuelLogsMessage;
 
 }
